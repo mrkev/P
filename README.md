@@ -34,3 +34,5 @@ Usage: `P.ermitAll(new String[]{"Class.debugging", Class.lifecycle})`
 Adds/sets the value of all elements in `tags` to P.ermitted, and tags them as `false`
 
 Usage: `P.rohibitAll(new String[]{"Class.debugging", Class.lifecycle})`
+
+*See Examples.java for sample usage. Just import to your project for usage.* 
